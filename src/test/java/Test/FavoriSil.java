@@ -23,7 +23,7 @@ import org.openqa.selenium.remote.DesiredCapabilities;
  *      giris yapmaya yarayan metod çağrıldı.
  */
 public class FavoriSil {
-    String driverPath = "C:\\Users\\furkan\\Desktop\\geckodriver-v0.24.0-win64\\geckodriver.exe";
+    String driverPath = "C:\\Users\\furkan\\Desktop\\geckodriver-v0.24.0-win64\\geckodriver.exe"; //Driver path'i değiştirilmeli
     public WebDriver driver;
     
     @Test

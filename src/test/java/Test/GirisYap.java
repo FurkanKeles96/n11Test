@@ -21,7 +21,7 @@ import org.openqa.selenium.remote.DesiredCapabilities;
  * Sonrasında da giris ekranına gidilerek giris işlemlerinin yapılması sağlandı.
  */
 public class GirisYap {
-    String driverPath = "C:\\Users\\furkan\\Desktop\\geckodriver-v0.24.0-win64\\geckodriver.exe";
+    String driverPath = "C:\\Users\\furkan\\Desktop\\geckodriver-v0.24.0-win64\\geckodriver.exe";  //Driver path'i değiştirilmeli
     public WebDriver driver;
     
     @Test

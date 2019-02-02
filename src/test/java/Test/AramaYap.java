@@ -27,7 +27,7 @@ import org.openqa.selenium.remote.DesiredCapabilities;
  */
 public class AramaYap {
     
-    String driverPath = "C:\\Users\\furkan\\Desktop\\geckodriver-v0.24.0-win64\\geckodriver.exe";
+    String driverPath = "C:\\Users\\furkan\\Desktop\\geckodriver-v0.24.0-win64\\geckodriver.exe"; //Driver path'i değiştirilmeli
     public WebDriver driver;
     
     @Test

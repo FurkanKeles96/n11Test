@@ -22,7 +22,7 @@ import org.openqa.selenium.remote.DesiredCapabilities;
  *      Şu an tam olarak istenildiği gibi çalışmıyor.
  */
 public class TumCaseler {
-    String driverPath = "C:\\Users\\furkan\\Desktop\\geckodriver-v0.24.0-win64\\geckodriver.exe";
+    String driverPath = "C:\\Users\\furkan\\Desktop\\geckodriver-v0.24.0-win64\\geckodriver.exe"; //Driver path'i değiştirilmeli
     public WebDriver driver;
     
     @Test
