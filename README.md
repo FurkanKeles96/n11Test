@@ -6,4 +6,4 @@ Bu proje yapılırken Selenium WebDriver, maven ve Junit kullanıdı. Java kulla
 
 Proje yapılırken Page Object Model ile yapılmaya çalışıldı.
 
-Test case'lerinin çalışabilmesi için GeckoDriver path'i class'larda değiştirilmeli
+Test case'lerinin çalışabilmesi için GeckoDriver path'i class'larda değiştirilmeli.
